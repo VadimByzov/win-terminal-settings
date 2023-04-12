@@ -1,0 +1,12 @@
+{
+    "antialiasingMode": "cleartype",
+    "colorScheme": "git_bash",
+    "commandline": "%PROGRAMFILES%/git/usr/bin/bash.exe -i -l",
+    "experimental.retroTerminalEffect": false,
+    "guid": "{a3464014-7f9f-5763-ace4-e15905a9d7ee}",
+    "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
+    "name": "Git",
+    "startingDirectory": "%USERPROFILE%",
+    "tabTitle": "Git",
+    "useAcrylic": false
+}
