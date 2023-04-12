@@ -1,0 +1,23 @@
+{
+    "background": "#202030",
+    "black": "#282C34",
+    "blue": "#61AFEF",
+    "brightBlack": "#7FB323",
+    "brightBlue": "#00AFEF",
+    "brightCyan": "#56B6C2",
+    "brightGreen": "#AAD76F",
+    "brightPurple": "#CEE066",
+    "brightRed": "#FC7474",
+    "brightWhite": "#DCE4DF",
+    "brightYellow": "#22F901",
+    "cursorColor": "#FFFFFF",
+    "cyan": "#70E8F8",
+    "foreground": "#CAE0AC",
+    "green": "#6A8854",
+    "name": "git_bash",
+    "purple": "#C678DD",
+    "red": "#FB4242",
+    "selectionBackground": "#FFFFFF",
+    "white": "#DCDFE4",
+    "yellow": "#E5C07B"
+}
